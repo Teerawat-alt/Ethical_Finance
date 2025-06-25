@@ -1,4 +1,4 @@
-# Ehtical Finance Hackathon 2025 Financeal Analysis Agent
+# Ehtical Finance Hackathon 2025 
 
 This step-by-step chain-of-thought (ST-COT) and (Fin-COT)approach for financial question answering using LLM via Hugging Face Transformers and PyTorch.
 
